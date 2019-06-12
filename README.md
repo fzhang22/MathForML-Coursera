@@ -1,3 +1,4 @@
 # MathForML-Coursera
 Programming Assignments
-[Linear Algebra](../MathForML-Coursera/LinearAlgebra)
+
+[Linear Algebra](fzhang22/MathForML-Coursera/LinearAlgebra)
