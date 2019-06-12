@@ -1,4 +1,4 @@
-# MathForML-Coursera
-Programming Assignments
+## Mathematics for Machine Learning Specialization
+### Programming Assignments
 
-[1. LinearAlgebra](fzhang22/MathForML-Coursera/LinearAlgebra)
+1. Mathematics for Machine Learning: Linear Algebra
